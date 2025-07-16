@@ -22,4 +22,4 @@ Whether you're applying for your first internship or your first full-time role i
 
 ## 📎 Blog Link
 
-👉 [Read the full blog on Medium]([https://your-medium-blog-link](https://medium.com/@saral.mahak22/how-to-build-a-strong-tech-resume-that-gets-shortlisted-9d43579e1d9e))
+👉 [Read the full blog on Medium](https://medium.com/@saral.mahak22/how-to-build-a-strong-tech-resume-that-gets-shortlisted-9d43579e1d9e)
